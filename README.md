@@ -1,1 +1,1 @@
-# PokemonApp by Meryem
+README
