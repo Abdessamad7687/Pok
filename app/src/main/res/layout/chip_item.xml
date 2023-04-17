@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.google.android.material.chip.Chip
+        android:id="@+id/chip"
+        android:text="@string/pikatchu"
+        android:textSize="13sp"
+        android:textAlignment="center"
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        app:chipBackgroundColor="@color/colorPrimaryDark"
+        android:textColor="@color/white"
+        >
+
+    </com.google.android.material.chip.Chip>
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="prev_evolution">Prev Evolution</string>
+    <string name="weakness">Weakness</string>
+    <string name="type">Type</string>
+    <string name="height">Height</string>
+    <string name="pikatchu">Pikatchu</string>
+    <string name="next_evolution" >Next Evolution</string>
+    <string name="weight">Weight</string>
+
+</resources>
